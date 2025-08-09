@@ -162,7 +162,7 @@ El **Backend** debe leer estas variables para:
   - `develop` → Desarrollo.
   - Ramas de feature → `feature/nombre`.
   - Ramas de hotfix → `hotfix/nombre`.
-- Se tendrán en cuenta la claridad de los mensajes de commit y la claridad del uso de ramas a la hora de evaluación
+- Se tendrán en cuenta la claridad de los mensajes de commit y la claridad del uso de ramas a la hora de evaluación. Leer: https://midu.dev/buenas-practicas-escribir-commits-git
 
 ## Estructura del repositorio
 ```
